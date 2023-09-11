@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>Wax activity</title>
+<link href="https://gitlab.com/waxgithub.atom" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/waxgithub" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/waxgithub</id>
+<updated>2023-08-30T01:31:12Z</updated>
+</feed>
